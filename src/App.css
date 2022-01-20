@@ -54,7 +54,19 @@
     float: right;
     position: absolute;
     right: 10px;
-    top: 20px;
+    top: 30px;
+}
+.add-to-cart span.cart-count{
+  position: absolute;
+  right: 1%;
+  top: 3.5%;
+  background: red;
+  color: #fff;
+  font-size: 12px;
+  padding: 3px;
+  border-radius: 10px;
+  z-index: 9;
+  width: 15px;
 }
 /* */
 @keyframes App-logo-spin {
